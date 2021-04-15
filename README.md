@@ -2,6 +2,8 @@
 
 The repository contains the official code for the work **"Channel Split Convolutional Neural Network (ChaSNet) for Thermal ImageSuper-Resolution"** accepted for PBVS-2021 workshop in-conjuction with CVPR-2021 conference.
 
+List of Authors: Kalpesh Prajapati, **Vishal Chudasama**, Heena Patel, Kishor Upla, Kiran Raja, Raghavendra Ramacharya, Christoph Busch
+
 **- Description**
 
 <img src="Images/Network.png" width="800">
